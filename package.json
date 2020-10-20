@@ -1,0 +1,19 @@
+ 
+
+{
+  "name": "rest-server",
+  "version": "5.0.0",
+  "private": true,
+  "dependencies": {
+  "body-parser": "~1.15.2",
+  "express": "~4.14.0",
+  "nodemon": "^2.0.4"
+  },
+ "engines": {
+    "node": "12.8.4" 
+  },
+ "main": "app.js",
+    "devDependencies": {},
+    "license": "ISC"
+  }
+
